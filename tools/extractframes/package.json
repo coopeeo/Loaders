@@ -1,0 +1,14 @@
+{
+  "name": "extractframes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Cooper",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "save-svg-as-png": "^1.4.17"
+  }
+}
